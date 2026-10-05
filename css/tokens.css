@@ -1,0 +1,87 @@
+/* Blips / Vuze — tokens extraídos de Vuze_Juice_V01/index.html.
+ * v1.0.0 | Valores de origem + extensões semânticas documentadas.
+ * Escopo .blips para integração em páginas HTML existentes.
+ */
+.blips {
+  --bl-brand: #fcba28;
+  --bl-brand-hover: color-mix(in oklch, #fcba28 90%, black);
+  --bl-brand-soft: color-mix(in oklch, #fcba28 10%, #ffffff);
+  --bl-brand-ring: color-mix(in oklch, #fcba28 30%, transparent);
+  --bl-product-accent: #e23d28;
+  --bl-accent-readable: #b93120;
+  --bl-white: #ffffff;
+  --bl-neutral-50: #fafafa;
+  --bl-neutral-100: #f5f5f5;
+  --bl-neutral-200: #e5e5e5;
+  --bl-neutral-300: #a1a1a1;
+  --bl-neutral-500: #737373;
+  --bl-neutral-700: #404040;
+  --bl-neutral-800: #262626;
+  --bl-neutral-900: #171717;
+  --bl-neutral-950: #0a0a0a;
+  --bl-field-border: #e3e3e3;
+  --bl-surface: var(--bl-white);
+  --bl-surface-subtle: var(--bl-neutral-50);
+  --bl-surface-muted: var(--bl-neutral-100);
+  --bl-surface-inverse: var(--bl-neutral-950);
+  --bl-text: var(--bl-neutral-950);
+  --bl-text-body: var(--bl-neutral-700);
+  --bl-text-muted: #666666;
+  --bl-text-inverse: var(--bl-white);
+  --bl-border: var(--bl-neutral-200);
+  --bl-error: #b93120;
+  --bl-success: #176b40;
+  --bl-font-display: 'Helvetica Now Display', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --bl-font-text: 'Helvetica Now Text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --bl-text-xs: 12px;
+  --bl-text-sm: 14px;
+  --bl-text-md: 16px;
+  --bl-text-lg: 18px;
+  --bl-text-lead: 19px;
+  --bl-heading-1: 60px;
+  --bl-heading-2: 44px;
+  --bl-heading-3: 32px;
+  --bl-heading-4: 24px;
+  --bl-line-display: 1.04;
+  --bl-line-heading: 1.15;
+  --bl-line-body: 1.6;
+  --bl-tracking-display: -.02em;
+  --bl-tracking-label: .12em;
+  --bl-weight-regular: 400;
+  --bl-weight-medium: 500;
+  --bl-weight-semibold: 600;
+  --bl-weight-bold: 700;
+  --bl-space-1: 4px;
+  --bl-space-2: 8px;
+  --bl-space-3: 12px;
+  --bl-space-4: 16px;
+  --bl-space-5: 20px;
+  --bl-space-6: 24px;
+  --bl-space-8: 32px;
+  --bl-space-10: 40px;
+  --bl-space-12: 48px;
+  --bl-space-14: 56px;
+  --bl-space-16: 64px;
+  --bl-section-space: 104px;
+  --bl-radius-sm: 8px;
+  --bl-radius-field: 10px;
+  --bl-radius-md: 12px;
+  --bl-radius-card: 14px;
+  --bl-radius-lg: 18px;
+  --bl-radius-pill: 999px;
+  --bl-container: 1170px;
+  --bl-container-reading: 800px;
+  --bl-container-form: 640px;
+  --bl-gutter: 32px;
+  --bl-control-height: 56px;
+  --bl-field-height: 52px;
+  --bl-shadow-tab: 0 1px 3px rgb(0 0 0 / .08), 0 1px 2px -1px rgb(0 0 0 / .06);
+  --bl-shadow-card: 0 8px 20px rgb(0 0 0 / .08);
+  --bl-shadow-product: 0 18px 28px rgb(0 0 0 / .18);
+  --bl-duration-fast: 150ms;
+  --bl-duration-base: 200ms;
+  --bl-ease: cubic-bezier(.25, 1, .5, 1);
+}
+@media (max-width: 900px) {
+  .blips { --bl-heading-1: 38px; --bl-heading-2: 30px; --bl-heading-3: 26px; --bl-gutter: 20px; --bl-section-space: 64px; }
+}

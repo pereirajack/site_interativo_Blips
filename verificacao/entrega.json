@@ -1,0 +1,75 @@
+{
+  "version": "1.0.0",
+  "model_viewer": "4.3.1",
+  "source_glb_sha256": "fd1b4882e3aad5701439a0f99751fe1848175cc7e8fb11f59dc24dd7bd43941b",
+  "source_photo_sha256": "3a0c825b1b3ea035bed5d60002c28200d589e9f0515ecd4c8dc2bf4f1989ea3a",
+  "commercial_url": "https://promo.idealdistribuidora.com/plotter-recorte-120cm/#formulario",
+  "offline_blender_render": false,
+  "browser_checks": "pass",
+  "files": {
+    "README.md": {
+      "bytes": 2633,
+      "sha256": "858516112517d303ea8be52ac5024dc0722c4e37110399832bf55f27e5c459c8"
+    },
+    "assets/blips-logo-black.webp": {
+      "bytes": 8212,
+      "sha256": "01156ebb2b310d2d7da25f12f7b74d75d5caefdb9f1ba35e15284437930dcb7e"
+    },
+    "assets/blips-logo-white.png": {
+      "bytes": 21271,
+      "sha256": "1d91a8d94a7a59dab1143202207ac2e6ccdd66571a9cb34c9d66c3127b6afaae"
+    },
+    "assets/fotos/vuze-cut120-frente.png": {
+      "bytes": 1648114,
+      "sha256": "3a0c825b1b3ea035bed5d60002c28200d589e9f0515ecd4c8dc2bf4f1989ea3a"
+    },
+    "assets/modelos/vuze-cut120.glb": {
+      "bytes": 1743452,
+      "sha256": "fd1b4882e3aad5701439a0f99751fe1848175cc7e8fb11f59dc24dd7bd43941b"
+    },
+    "css/components.css": {
+      "bytes": 15847,
+      "sha256": "4075023be7affa13c970cd52931fa891cd937fc9f41e8ba5c3b05bbb87c5313a"
+    },
+    "css/landing.css": {
+      "bytes": 16372,
+      "sha256": "86e3a7f64418c8038079c981c7cfc883d1744ebf689736b14421e89ebd455e88"
+    },
+    "css/tokens.css": {
+      "bytes": 2870,
+      "sha256": "38531fe38159d1b55f28f021ad2b0a70090b55b44976c8a314790889fbfe4300"
+    },
+    "documentacao/IMPLEMENTACAO.md": {
+      "bytes": 6944,
+      "sha256": "aeb1164356065ba47736fbd30b1d2cad728016807030a365710e6f8a6ae0a8ce"
+    },
+    "index.html": {
+      "bytes": 21885,
+      "sha256": "f3b58edfa26d3bb04ebc188a607d555dd53fca691dfa0b3ccd8915adf9ab09f7"
+    },
+    "iniciar-preview.command": {
+      "bytes": 161,
+      "sha256": "c875034d17e849ff5ec127c12ec61e74cefdeb00e1f70105664f72dba27eb054"
+    },
+    "js/components.js": {
+      "bytes": 1397,
+      "sha256": "f2f428307eafde4f0a84521203c8f80ee0ba1a91cc9bfbe351cf934cd9676ebc"
+    },
+    "js/config.js": {
+      "bytes": 411,
+      "sha256": "d4e4b2cd036be4d406c2ae806be8dbfb9def78bdeafa7093801fdc64e7ea350c"
+    },
+    "js/landing.js": {
+      "bytes": 11178,
+      "sha256": "0823518854f412eef41cd59668ef391568aa7a54ca867e10fa83b45adeff9c22"
+    },
+    "vendor/model-viewer/LICENSE": {
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    "vendor/model-viewer/model-viewer.min.js": {
+      "bytes": 1068903,
+      "sha256": "283b0672384614b4847636c306fc93fe4b1fcadc76d668b4e47f0ca76bcf033b"
+    }
+  }
+}
